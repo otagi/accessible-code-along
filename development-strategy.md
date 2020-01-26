@@ -4,6 +4,8 @@
 
 > include a link to your wireframe, [wireframe.cc](https://wireframe.cc) is a good starting tool
 
+[Wireframe](https://wireframe.cc/fKvVmH)
+
 ## Steps Plan
 
 > add one row to this table for each user story you define
@@ -11,10 +13,8 @@
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
 | __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body`, and hide/reveal script & styles | an empty main `style.css` and an existing evaluation style |
-|  | |  |  |
-| ... | ... | ... | ... |
-| (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
-
+| html-form | As a student, I can open the website so that I can see a search form. |  | Create a form. | |
+| for-style | As a student, I can open the website so that I can see a pretty search form. |  | | Write the CSS rules. |
 
 ---
 ---
